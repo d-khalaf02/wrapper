@@ -16,6 +16,8 @@
     "reflect-metadata": "~0.2.2",
     "vitest": "~2.1.1",
     "faker": "~6.6.6",
-    "@faker-js/faker": "~9.0.3"
+    "@faker-js/faker": "~9.0.3",
+    "tsc-alias": "~1.8.10",
+    "rimraf": "~6.0.1"
   }
 }
